@@ -1,0 +1,15 @@
+[de]
+disabled = false
+languageCode = 'de'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+title = 'renzwertig ////'
+weight = 1
+
+[en]
+disabled = false
+languageCode = 'en'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'renzwertig ////'
+weight = 0

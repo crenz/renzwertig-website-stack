@@ -8,17 +8,25 @@
 #newtab = true
 
 [[social]]
-identifier = "github"
-name = "GitHub"
+identifier = "soundcloud"
+name = "Soundcloud"
 url = "https://github.com/CaiJimmy/hugo-theme-stack"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-soundcloud"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "apple"
+name = "Apple Music"
+url = "https://github.com/CaiJimmy/hugo-theme-stack"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-apple"
+
+[[social]]
+identifier = "spotify"
+name = "Spotify"
+url = "https://github.com/CaiJimmy/hugo-theme-stack"
+
+[social.params]
+icon = "brand-spotify"
