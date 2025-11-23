@@ -10,7 +10,7 @@
 [[social]]
 identifier = "soundcloud"
 name = "Soundcloud"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://soundcloud.com/renzwertig"
 
 [social.params]
 icon = "brand-soundcloud"
@@ -18,7 +18,7 @@ icon = "brand-soundcloud"
 [[social]]
 identifier = "apple"
 name = "Apple Music"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://music.apple.com/artist/christian-renz/1612983248"
 
 [social.params]
 icon = "brand-apple"
@@ -26,7 +26,7 @@ icon = "brand-apple"
 [[social]]
 identifier = "spotify"
 name = "Spotify"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://open.spotify.com/artist/1Bm9n5jSbtH7D5brfvlLWf"
 
 [social.params]
 icon = "brand-spotify"

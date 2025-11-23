@@ -11,7 +11,7 @@ tags:
 - Studio
 date: 2023-07-08T12:00:00.000Z
 
-# external_link: http://example.org
+external_link: https://listen.music-hub.com/N2DsgF
 
 draft: false
 featured: false

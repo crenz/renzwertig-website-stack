@@ -10,6 +10,7 @@ tags:
 - Production
 date: 2014-11-01T12:00:00.000Z
 
+external_link: https://open.spotify.com/album/2UBt7b67QbA8N6l6DKs6UB
 # external_link: http://example.org
 # external_link: https://www.thegospelhouse.de/index.php/thegospelhouse
 
