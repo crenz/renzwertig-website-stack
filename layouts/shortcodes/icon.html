@@ -1,0 +1,4 @@
+{{- if (.Get "name") -}}
+  {{- $icon := .Get "name" -}}
+  {{ partial "helper/icon" $icon }}
+{{- end -}}

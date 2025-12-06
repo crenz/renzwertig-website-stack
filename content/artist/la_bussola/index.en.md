@@ -1,7 +1,7 @@
 ---
-title: Canto di lode
+title: La Bussola Kids Worship
 description: Christian kid's worship songs
-slug: canto
+slug: la_bussola
 #image: cover.jpg
 ---
 

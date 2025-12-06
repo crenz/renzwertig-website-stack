@@ -2,7 +2,7 @@
 title: Bass – Live & im Studio
 slug: bass
 image: cover.jpg
-weight: 1
+weight: 2
 ---
 
 > The bass player builds the house that all the other players get to live in. 

@@ -13,7 +13,7 @@ menu:
   method="POST"
   class="shop-form">
 
-<table style="background-color:rgba(0, 0, 0, 0)";>
+<table>
   <thead>
     <tr>
       <th></th>
@@ -37,8 +37,13 @@ menu:
       <td>€5,-</td>
       <td>Chornoten und Lead Sheet „Wie soll ich dich empfangen (Du kommst zu uns)“</td>
     </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
     <tr>
-      <td colspan="3">&nbsp;</td>
+      <td>Firma/Organisation (optional):</td>
+      <td colspan="2"><input type="company" name="company"/></td>
     </tr>
     <tr>
       <td>Name:</td>
@@ -65,6 +70,10 @@ menu:
       <td colspan="2"><input type="email" name="email" required/></td>
     </tr>
     <tr>
+      <td>Telefonnummer (optional):</td>
+      <td colspan="2"><input type="phone" name="phone" required/></td>
+    </tr>
+    <tr>
       <td>Zusätzliche Nachricht:</td>
       <td colspan="2"><textarea name="message" rows="10"></textarea></td>
     </tr>
@@ -76,13 +85,12 @@ menu:
 </form>
 
 <style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  table, th, td, tr {
-    /* border: none;
-    background-color: green; */
+  table, td, th, tr {
+    width: auto !important;
+    border: none !important;
+    padding: 0px !important;
+    padding-inline-end: 30px !important;
+    background-color: rgba(0, 0, 0, 0.0) !important;
   } 
   form {
 /*    display: grid;
