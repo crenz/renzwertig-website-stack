@@ -1,0 +1,24 @@
+<p>
+{{- if (.Get "lyrics-and-music") -}}
+  {{- $name := .Get "lyrics-and-music" -}}
+  <b>{{ T "lyrics_and_music" }}</b> {{ $name }}<br />
+{{- end -}}
+{{- if (.Get "lyrics") -}}
+  {{- $name := .Get "lyrics" -}}
+  <b>{{ T "lyrics" }}</b> {{ $name }}<br />
+{{- end -}}
+{{- if (.Get "music") -}}
+  {{- $name := .Get "music" -}}
+  <b>{{ T "music" }}</b> {{ $name }}<br />
+{{- end -}}
+{{- if (.Get "ccli") -}}
+  {{- $name := .Get "ccli" -}}
+  <b>{{ T "ccli" }}</b> {{ $name }}<br />
+{{- end -}}
+</p>
+{{- if (.Get "score") -}}
+  <blockquote>
+    {{ $opts := dict "path" "/page/shop" }}
+    <a href='{{ .RelRef $opts }}'>{{ T "order_score" }}</a>
+  </blockquote>
+{{- end -}}

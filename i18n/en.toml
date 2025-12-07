@@ -1,0 +1,5 @@
+music = "Music: "
+lyrics = "Lyrics: "
+lyrics_and_music = "Lyrics & music: "
+ccli = "CCLI # "
+order_score = "Order score in the shop"

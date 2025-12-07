@@ -1,0 +1,20 @@
+
+{{- $type := .Get "type" | default (.Get 0) -}}
+
+{{ $pages := where .Site.RegularPages "Type" "in" $type }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+{{ $filtered := ($pages | intersect $notHidden) }}
+
+{{- $tag := .Get "tag" | default (.Get 1) -}}
+{{ if ne (len $tag) 0 }}
+    {{ $tags := slice $tag }}
+    {{ $matchingTag := where .Site.RegularPages "Params.tags" "intersect" $tags }}
+    {{ $filtered = ($filtered | intersect $matchingTag) }}
+{{ end }}
+
+<ul>
+
+            {{ range $filtered }}
+                <li><a href="{{ .RelPermalink }}">{{ .Params.Title }}</a></li>
+            {{ end }}
+</ul>

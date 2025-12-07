@@ -3,7 +3,7 @@ title: "Shop"
 slug: "shop"
 menu:
     main:
-        weight: 3
+        weight: 4
         params: 
             icon: shopping-cart
 ---
