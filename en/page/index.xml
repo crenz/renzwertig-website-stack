@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on renzwertig ////</title><link>https://renzwertig.de/en/page/</link><description>Recent content in Pages on renzwertig ////</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Christian Renz</copyright><atom:link href="https://renzwertig.de/en/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://renzwertig.de/en/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://renzwertig.de/en/contact/</guid><description>&lt;form
+action="https://formspree.io/f/xanjydqd"
+method="POST"
+&gt;
+&lt;label&gt;
+Name:
+&lt;input type="name" name="name" /&gt;
+&lt;/label&gt;
+&lt;label&gt;
+E-Mail address:
+&lt;input type="email" name="email" /&gt;
+&lt;/label&gt;
+&lt;label&gt;
+Message:
+&lt;textarea name="message" rows="10"&gt;&lt;/textarea&gt;
+&lt;/label&gt;
+&lt;p&gt;&lt;button type="submit"&gt;Send&lt;/button&gt;&lt;/p&gt;
+&lt;/form&gt;
+&lt;style&gt;
+/* Some nice boilerplate CSS to tidy up your form */
+form {
+display: grid;
+grid-template-columns: max-content 1fr;
+grid-gap: 1rem;
+text-align: left;
+padding: 2rem 0;
+margin: 0;
+}
+form label {
+display: contents;
+}
+form input[type="name"],
+form input[type="email"],
+form textarea,
+form button {
+font-family: inherit;
+font-size: inherit;
+border: 1px solid currentColor;
+background: none;
+padding: 0.4rem 0.5rem;
+}
+form textarea {
+resize: vertical;
+}
+form button {
+justify-self: start;
+}
+&lt;/style&gt;</description></item><item><title>Search</title><link>https://renzwertig.de/en/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://renzwertig.de/en/search/</guid><description/></item><item><title>Shop</title><link>https://renzwertig.de/en/shop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://renzwertig.de/en/shop/</guid><description>&lt;form
+action="https://formspree.io/f/mgvygbpe"
+method="POST"
+&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Price&lt;/th&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;input type="checkbox" id="_product_cd-rudi" name="_product_cd-rudi"&gt;&lt;/td&gt;
+&lt;td&gt;€10,-&lt;/td&gt;
+&lt;td&gt;CD „Rudi Hampel – Lieder für dich”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;input type="checkbox" id="_product_score-jdbs" name="_product_score-jdbs"&gt;&lt;/td&gt;
+&lt;td&gt;€5,-&lt;/td&gt;
+&lt;td&gt;Score and Playback „Jesus du bist Sieger“&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;input type="checkbox" id="_product_score-wside" name="_product_score-wside"&gt;&lt;/td&gt;
+&lt;td&gt;€5,-&lt;/td&gt;
+&lt;td&gt;Score „Wie soll ich dich empfangen (Du kommst zu uns)“&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td&gt;Company/Organisation (optional):&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="company" name="company"/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Name:&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="name" name="name" required/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Street:&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="street" name="street" required/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Postcode:&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="postcode" name="postcode" required/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;City:&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="city" name="city" required/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Country:&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="country" name="country" required/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;E-Mail address:&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="email" name="email" required/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Phone number (optional):&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;input type="phone" name="phone" required/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Additional message:&lt;/td&gt;
+&lt;td colspan="2"&gt;&lt;textarea name="message" rows="10"&gt;&lt;/textarea&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="3"&gt;&lt;button type="submit"&gt;Order with obligation to pay&lt;/button&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/form&gt;
+&lt;style&gt;
+table, td, th, tr {
+width: auto !important;
+border: none !important;
+padding: 0px !important;
+padding-inline-end: 30px !important;
+background-color: rgba(0, 0, 0, 0.0) !important;
+}
+form {
+/* display: grid;
+grid-template-columns: max-content 1fr;
+grid-gap: 1rem;
+text-align: left; */
+padding: 2rem 0;
+margin: 0;
+}
+form label {
+display: contents;
+}
+/* form input[type="name"],
+form input[type="email"],
+form textarea,
+form button {
+font-family: inherit;
+font-size: inherit;
+border: 1px solid currentColor;
+background: none;
+padding: 0.4rem 0.5rem;
+}*/
+form textarea {
+resize: vertical;
+}
+form button {
+justify-self: start;
+}
+&lt;/style&gt;</description></item></channel></rss>
