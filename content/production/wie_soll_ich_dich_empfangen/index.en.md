@@ -16,11 +16,13 @@ image: cover.jpg
 
 ---
 
-**Release date: Dec 12, 2025**
-
-> {{< icon name="brand-apple" >}} &nbsp; [Pre-order on Apple Music ](https://music.apple.com/album/wie-soll-ich-ich-empfangen-du-kommst-zu-uns-single/1858253538) \
-> {{< icon name="brand-spotify" >}}&nbsp; [Pre-save on Spotify](https://distrokid.com/hyperfollow/krsmadarszxchristianrenz/wie-soll-ich-ich-empfangen-du-kommst-zu-uns)\
+> {{< icon name="shopping-cart" >}} &nbsp; [Buy Song on Bandcamp](https://renzwertig.bandcamp.com/track/wie-soll-ich-dich-empfangen-du-kommst-zu-uns) \
+> {{< icon name="brand-apple" >}} &nbsp; [Buy Song on iTunes](https://music.apple.com/us/album/wie-soll-ich-ich-empfangen-du-kommst-zu-uns-single/1858253538?uo=4&app=itunes&at=1001lry3&ct=dashboard) \
+> {{< icon name="brand-apple" >}} &nbsp; [Stream on Apple Music](https://music.apple.com/album/wie-soll-ich-ich-empfangen-du-kommst-zu-uns-single/1858253538) \
+> {{< icon name="brand-spotify" >}}&nbsp; [Stream on Spotify](https://open.spotify.com/intl-de/track/5T0679zQt9aPua7WBjY7xK?si=5164f71b54f54b97)\
 > {{< icon name="shopping-cart" >}}&nbsp; [Order score]({{< relref "/page/shop" >}})
+
+{{< youtube 7I8ZwpL6t6I >}}
 
 **A centuries-old hymn reimagined.**\
 **Music that feels familiar, yet full of surprises.**

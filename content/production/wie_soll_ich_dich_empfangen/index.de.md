@@ -16,11 +16,13 @@ image: cover.jpg
 
 ---
 
-**Veröffentlichung am 12.12.2025**
-
-> {{< icon name="brand-apple" >}} &nbsp; [Bei Apple Music vorbestellen](https://music.apple.com/album/wie-soll-ich-ich-empfangen-du-kommst-zu-uns-single/1858253538) \
-> {{< icon name="brand-spotify" >}}&nbsp; [In der Spotify-Bibliothek speichern](https://distrokid.com/hyperfollow/krsmadarszxchristianrenz/wie-soll-ich-ich-empfangen-du-kommst-zu-uns)\
+> {{< icon name="shopping-cart" >}} &nbsp; [Song bei Bandcamp kaufen](https://renzwertig.bandcamp.com/track/wie-soll-ich-dich-empfangen-du-kommst-zu-uns) \
+> {{< icon name="brand-apple" >}} &nbsp; [Song bei iTunes kaufen](https://music.apple.com/us/album/wie-soll-ich-ich-empfangen-du-kommst-zu-uns-single/1858253538?uo=4&app=itunes&at=1001lry3&ct=dashboard) \
+> {{< icon name="brand-apple" >}} &nbsp; [Bei Apple Music streamen](https://music.apple.com/album/wie-soll-ich-ich-empfangen-du-kommst-zu-uns-single/1858253538) \
+> {{< icon name="brand-spotify" >}}&nbsp; [Bei Spotify streamen](https://open.spotify.com/intl-de/track/5T0679zQt9aPua7WBjY7xK?si=5164f71b54f54b97)\
 > {{< icon name="shopping-cart" >}}&nbsp; [Noten bestellen]({{< relref "/page/shop" >}})
+
+{{< youtube 7I8ZwpL6t6I >}}
 
 **Ein jahrhundertealtes Kirchenlied neu gedacht.**\
 **Musik, die vertraut klingt und doch überrascht.**
